@@ -1,0 +1,133 @@
+{
+  "prefix": [
+    {
+      "cc": 1,
+      "PAID": 13105552345,
+      "From": 13105552345,
+      "comment": "USA"
+    },
+    {
+      "cc": 7,
+      "PAID": 74950123456,
+      "From": 74950123456,
+      "comment": "Russia"
+    },
+    {
+      "cc": 40,
+      "PAID": 40215552345,
+      "From": 40215552345,
+      "comment": "Romania"
+    },
+    {
+      "cc": 41,
+      "PAID": 414475552345,
+      "From": 414475552345,
+      "comment": "Switzerland"
+    },
+    {
+      "cc": 420,
+      "PAID": 420275552345,
+      "From": 420275552345,
+      "comment": "Czech Republic"
+    },
+    {
+      "cc": 421,
+      "PAID": 421275552345,
+      "From": 421275552345,
+      "comment": "Slovakia"
+    },
+    {
+      "cc": 423,
+      "PAID": 4230123456,
+      "From": 4230123456,
+      "comment": "Liechtenstein"
+    },
+    {
+      "cc": 43,
+      "PAID": 43175552345,
+      "From": 43175552345,
+      "comment": "Austria"
+    },
+    {
+      "cc": 44,
+      "PAID": 442075552345,
+      "From": 442075552345,
+      "comment": "UK"
+    },
+    {
+      "cc": 45,
+      "PAID": 4586007750,
+      "From": 4586007750,
+      "comment": "Denmark"
+    },
+    {
+      "cc": 46,
+      "PAID": 4686007750,
+      "From": 4686007750,
+      "comment": "Sweden"
+    },
+    {
+      "cc": 47,
+      "PAID": 4786007750,
+      "From": 4786007750,
+      "comment": "Norway"
+    },
+    {
+      "cc": 48,
+      "PAID": 48226007750,
+      "From": 48226007750,
+      "comment": "Poland"
+    },
+    {
+      "cc": 49,
+      "PAID": 49306007750,
+      "From": 49306007750,
+      "comment": "Germany"
+    },
+    {
+      "cc": 380,
+      "PAID": 380441234567,
+      "From": 380441234567,
+      "comment": "Ukraine"
+    },
+    {
+      "cc": 381,
+      "PAID": 3810912345678,
+      "From": 3810912345687,
+      "comment": "Serbia"
+    },
+    {
+      "cc": 382,
+      "PAID": 3820912345678,
+      "From": 3820912345678,
+      "comment": "Montenegro"
+    },
+    {
+      "cc": 383,
+      "PAID": 3830912345678,
+      "From": 3830912345678,
+      "comment": "Kosovo"
+    },
+    {
+      "cc": 385,
+      "PAID": 3850912345678,
+      "From": 3850912345678,
+      "comment": "Croatia"
+    },
+    {
+      "cc": 386,
+      "PAID": 3860912345678,
+      "From": 3860912345678,
+      "comment": "Slovenia"
+    },
+    {
+      "cc": 387,
+      "PAID": 3870912345678,
+      "From": 3870912345678,
+      "comment": "Bosnia and Herzegovina"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
